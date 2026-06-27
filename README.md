@@ -3,7 +3,7 @@
 Najah Bell — MS Applied Data Science Portfolio
 
 **Syracuse University | School of Information Studies**
-M.S. in Applied Data Science | Graduating [INSERT TERM]
+M.S. in Applied Data Science | Graduating Spring 2026
 
 
 
@@ -23,6 +23,7 @@ Portfolio Projects
 | [IST 722 — Data Warehousing](./IST722_DataWarehousing/) | Integrated Customer Item Rating Warehouse | dbt, Snowflake, SQL |
 | [IST 652 — Scripting for Data Analysis](./IST652_Scripting/) | Stock Price Analysis & Forecasting | Python, yfinance, NLTK, VADER, ETS |
 | [IST 707 — Data Analytics](./IST707_DataAnalytics/) | Domestic Flight Delay Prediction | Python, scikit-learn, K-Means, Random Forest |
+| [IST 664 — Natural Language Processing](./IST664_NLP/) | Email Spam Classifier — Enron Corpus | Python, scikit-learn, NLTK, Logistic Regression |
 
 
 
