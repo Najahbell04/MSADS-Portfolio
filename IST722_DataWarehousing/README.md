@@ -69,5 +69,5 @@ Files in This Folder
 Ethical Reflection
 
 Integrating customer data from two previously independent companies raised data governance considerations. The design decision to retain a `source_system` attribute in `dim_customer` — rather than fully merging customer identities — preserved data provenance and prevented erroneous cross-company identity assumptions that could affect how individual customers are analyzed or targeted.
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/e24097a6-2506-4f09-a479-8568c829da06" />
+
 
