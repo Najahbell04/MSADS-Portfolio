@@ -35,3 +35,5 @@ Contact
 
 *This portfolio was developed as part of IST 782: Data Science Portfolio at Syracuse University.*
 
+<img width="468" height="639" alt="image" src="https://github.com/user-attachments/assets/7096f1d3-95d4-4910-8b78-4ac119384e95" />
+
