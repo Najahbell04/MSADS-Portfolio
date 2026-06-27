@@ -61,7 +61,7 @@ Files in This Folder
 | File | Description |
 |------|-------------|
 | `IST718_Presentation.pdf` | Final project presentation slides |
-| `apple_sales_analysis.ipynb` | Python notebook — EDA and modeling (upload if available) |
+| `apple_sales_analysis.ipynb` | Python notebook — EDA and modeling |
 
 
 
