@@ -1,4 +1,4 @@
-IST 707: Data Analytics
+IST 707: Applied Machine Learning
 
 **Project:** Domestic Flight Delay Prediction
 **Team:** Najah Bell, Matthew Hicks, Andrew Krick, Nomar Diaz
