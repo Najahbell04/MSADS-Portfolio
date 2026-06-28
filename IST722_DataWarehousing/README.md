@@ -62,7 +62,7 @@ Files in This Folder
 | File | Description |
 |------|-------------|
 | `IST722_Presentation.pdf` | Final project presentation slides |
-| `dbt_models/` | SQL transformation files |
+| `Lineage_Graph.png` | Dimension and Fact Table Lineage Graph |
 
 
 
