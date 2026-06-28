@@ -54,8 +54,8 @@ Files in This Folder
 
 | File | Description |
 |------|-------------|
-| `IST707_Presentation.pptx` | Final project presentation slides |
-| `flight_delay_analysis.ipynb` | Python notebook |
+| `IST-707-Project-Presentation.pdf.pptx` | Final project presentation slides |
+| `IST-707-Project-Report.pdf` | Python notebook |
 
 
 
