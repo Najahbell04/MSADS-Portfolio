@@ -22,7 +22,7 @@ Portfolio Projects
 | [IST 718 — Big Data Analytics](./IST718_BigDataAnalytics/) | Predictive Insights for Apple Sales Data | Python, scikit-learn, pandas, matplotlib |
 | [IST 722 — Data Warehousing](./IST722_DataWarehousing/) | Integrated Customer Item Rating Warehouse | dbt, Snowflake, SQL |
 | [IST 652 — Scripting for Data Analysis](./IST652_Scripting/) | Stock Price Analysis & Forecasting | Python, yfinance, NLTK, VADER, ETS |
-| [IST 707 — Data Analytics](./IST707_DataAnalytics/) | Domestic Flight Delay Prediction | Python, scikit-learn, K-Means, Random Forest |
+| [IST 707 — Applied Machine Learning](./IST707_AppliedMachineLearning/) | Domestic Flight Delay Prediction | Python, scikit-learn, K-Means, Random Forest |
 | [IST 664 — Natural Language Processing](./IST664_NLP/) | Email Spam Classifier — Enron Corpus | Python, scikit-learn, NLTK, Logistic Regression |
 
 
