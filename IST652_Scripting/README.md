@@ -72,7 +72,7 @@ Files in This Folder
 | File | Description |
 |------|-------------|
 | `Group_Alpha_Stock_Analysis.docx` | Full project report |
-| `stock_analysis.py` | Python script (upload if available) |
+| `Group_Alpha_Stock_Analysis.ipynb` | Python script  |
 
 
 
