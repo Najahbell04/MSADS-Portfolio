@@ -54,8 +54,7 @@ Files in This Folder
 
 | File | Description |
 |------|-------------|
-| spam_classifier.py | Full classification pipeline with all feature experiments |
-| IST664_CodeWalkthrough.docx | Written explanation of the code and methodology |
+| spam_classifier.ipyb | Full classification pipeline with all feature experiments |
 | IST664_Presentation.pdf | Project presentation slides (if available) |
 
 
