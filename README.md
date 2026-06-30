@@ -30,8 +30,7 @@ Portfolio Projects
 Contact
 
 •	**Email:** najahmbell04@gmail.com
-•	**LinkedIn:** [INSERT YOUR LINKEDIN URL]
-•	**Portfolio Paper:** [Link to your paper once submitted]
+•	[**LinkedIn:**](https://www.linkedin.com/in/najah-bell-87b132122/)
 
 
 *This portfolio was developed as part of IST 782: Data Science Portfolio at Syracuse University.*
